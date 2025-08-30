@@ -2004,6 +2004,14 @@
       "version": "0.2.1"
     },
     {
+      "description": "Quickly navigate trought your jump history",
+      "id": "movestory",
+      "mod_version": "3",
+      "version": "0.1.0",
+      "type": "plugin",
+      "path": "plugins/movestory.lua"
+    },
+    {
       "description": "Allows moving back and forward between document positions, reducing the amount of scrolling",
       "id": "navigate",
       "mod_version": "3",
